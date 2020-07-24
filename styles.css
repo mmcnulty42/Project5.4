@@ -1,0 +1,14 @@
+ul img {margin:20px; float:left; list-style-type:none;}
+.ul {list-style-type:none;}
+.ul list [attribute="data-title"]
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @media (min-width:320px) {img {width:100%;} }
+  @media (min-width:768px) {img {width:33.3%;} }
+  @media (min-width:1024px) {img {width:20%;}}
+
+ #search {display:block; margin:auto auto; width:45%;}
